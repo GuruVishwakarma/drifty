@@ -1,0 +1,29 @@
+.custom-card {
+    transition: transform 0.2s ease-in-out;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 300px;
+    width: 300px;
+    margin: 0px;
+  }
+  
+  .custom-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-card img {
+    height: 300px; 
+    width: 300px;
+    /* Adjust height as needed */
+    object-fit:cover;
+  }
+
+  h2{
+    text-align: center;
+    padding-bottom: 70px;
+  }
+  
+  .heading{
+    color: aliceblue;
+  }

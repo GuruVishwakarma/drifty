@@ -1,0 +1,31 @@
+.custom-wallpaper-card {
+  transition: transform 0.2s ease-in-out;
+  border: none;
+  box-shadow: 0 4px 8px rgba(215, 25, 25, 0.101);
+  text-align: center;
+}
+
+.custom-wallpaper-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(75, 1, 1, 0.8);
+}
+
+.custom-wallpaper-card img {
+  height: 200px; /* Adjust height as needed */
+  object-fit: cover;
+}
+
+.custom-wallpaper-card .btn {
+  margin-top: 10px;
+}
+
+.Colors{
+  background-color: rgb(255, 255, 255);
+}
+.heading-1{
+  color: aliceblue;
+  margin-top: 150px;}
+
+.op{
+  background-color: red;
+}

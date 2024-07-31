@@ -1,0 +1,27 @@
+.bg {
+    background-color: #1b0019; /* Set the entire landing page background color to orange */
+    background-image: url('/public/images/bg.jpeg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; /* Ensure it covers the full viewport height */
+    background-image: '';
+   
+  }
+  
+  #top-brands {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  #about-us {
+    padding: 20px;
+    background-color: white; /* Optional: Add a different background color for contrast */
+    border-radius: 20px;
+  }
+  
+  #contact-us {
+    padding: 20px;
+    background-color: white; /* Optional: Add a different background color for contrast */
+  }
+  

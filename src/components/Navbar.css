@@ -1,0 +1,48 @@
+.custom-navbar {
+  background: #1b0000; /* Set the entire landing page background color to orange */
+  backdrop-filter: blur(30px); /* Apply the blur effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+  border: 1px solid rgba(31, 6, 6, 0.18); /* Optional: Add a light border for contrast */
+  transition: all 0.3s ease-in-out;
+}
+
+.custom-container {
+  background: rgba(0, 0, 0, 0); /* Transparent background */
+  backdrop-filter: blur(10px); /* Apply the blur effect */
+  border-radius: 15px; /* Rounded edges */
+  padding: 10px 15px; /* Optional: Adjust padding for better spacing */
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link {
+  color: #cfc9d5 !important; /* Dark text for readability */
+  font-weight: bold; /* Optional: Make the text bold for a classic look */
+}
+
+.custom-navbar .navbar-brand img {
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2)); /* Optional: Add a subtle shadow to the logo */
+}
+
+.custom-navbar .nav-link {
+  padding: 10px 15px; /* Adjust padding for better spacing */
+}
+
+.custom-navbar .nav-link:hover {
+  color: #007bff !important; /* Change color on hover */
+  background-color: rgba(70, 13, 77, 0.1); /* Light background color on hover */
+  border-radius: 10px; /* Rounded edges on hover */
+}
+
+#font{
+  font-family: Tahoma;
+}
+
+.foot{
+  background: #ffffff;
+  color: rgb(57, 0, 0); /* Set text color for contrast */
+  text-align: center;
+  height: 400px;
+  font-size: x-large;
+   padding: 30px;
+   border-radius: 20px;
+}

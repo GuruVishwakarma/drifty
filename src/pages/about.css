@@ -1,0 +1,37 @@
+.about-us-section {
+    position: relative;
+    background-image: url('./path-to-your-background-image.jpg'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white; /* Set text color for contrast */
+    padding: 50px 20px;
+    text-align: center;
+    min-height: 300px; /* Ensure the section has some height */
+  }
+  
+  .about-us-section::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Add a dark overlay for better text readability */
+    z-index: 1;
+  }
+  
+  .about-us-content {
+    position: relative;
+    z-index: 2; /* Ensure the content is above the overlay */
+  }
+  
+  .about-us-content h2 {
+    margin-bottom: 20px;
+    font-size: 2em;
+  }
+  
+  .about-us-content p {
+    font-size: 1.2em;
+  }
+  
