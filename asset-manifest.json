@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/GuruVishwakarma/drifty.git/static/css/main.44313a6f.css",
-    "main.js": "/GuruVishwakarma/drifty.git/static/js/main.ce13de4e.js",
-    "static/media/img2.jpg": "/GuruVishwakarma/drifty.git/static/media/img2.e6a6ce4013d5f1f2872a.jpg",
-    "static/media/nissan.jpg": "/GuruVishwakarma/drifty.git/static/media/nissan.363601aca26cf389940a.jpg",
-    "static/media/guuu.jpg": "/GuruVishwakarma/drifty.git/static/media/guuu.1f9188191086d5157087.jpg",
-    "index.html": "/GuruVishwakarma/drifty.git/index.html",
-    "main.44313a6f.css.map": "/GuruVishwakarma/drifty.git/static/css/main.44313a6f.css.map",
-    "main.ce13de4e.js.map": "/GuruVishwakarma/drifty.git/static/js/main.ce13de4e.js.map"
+    "main.css": "/drifty/static/css/main.44313a6f.css",
+    "main.js": "/drifty/static/js/main.e19e18fe.js",
+    "static/media/img2.jpg": "/drifty/static/media/img2.e6a6ce4013d5f1f2872a.jpg",
+    "static/media/nissan.jpg": "/drifty/static/media/nissan.363601aca26cf389940a.jpg",
+    "static/media/guuu.jpg": "/drifty/static/media/guuu.1f9188191086d5157087.jpg",
+    "index.html": "/drifty/index.html",
+    "main.44313a6f.css.map": "/drifty/static/css/main.44313a6f.css.map",
+    "main.e19e18fe.js.map": "/drifty/static/js/main.e19e18fe.js.map"
   },
   "entrypoints": [
     "static/css/main.44313a6f.css",
-    "static/js/main.ce13de4e.js"
+    "static/js/main.e19e18fe.js"
   ]
 }
