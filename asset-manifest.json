@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/drifty/static/css/main.44313a6f.css",
-    "main.js": "/drifty/static/js/main.e19e18fe.js",
+    "main.css": "/drifty/static/css/main.97d3284e.css",
+    "main.js": "/drifty/static/js/main.fb135a79.js",
     "static/media/img2.jpg": "/drifty/static/media/img2.e6a6ce4013d5f1f2872a.jpg",
     "static/media/nissan.jpg": "/drifty/static/media/nissan.363601aca26cf389940a.jpg",
     "static/media/guuu.jpg": "/drifty/static/media/guuu.1f9188191086d5157087.jpg",
     "index.html": "/drifty/index.html",
-    "main.44313a6f.css.map": "/drifty/static/css/main.44313a6f.css.map",
-    "main.e19e18fe.js.map": "/drifty/static/js/main.e19e18fe.js.map"
+    "main.97d3284e.css.map": "/drifty/static/css/main.97d3284e.css.map",
+    "main.fb135a79.js.map": "/drifty/static/js/main.fb135a79.js.map"
   },
   "entrypoints": [
-    "static/css/main.44313a6f.css",
-    "static/js/main.e19e18fe.js"
+    "static/css/main.97d3284e.css",
+    "static/js/main.fb135a79.js"
   ]
 }
