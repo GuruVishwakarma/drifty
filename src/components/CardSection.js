@@ -3,6 +3,7 @@ import { Card, Container, Row, Col } from 'react-bootstrap';
 import './CardSection.css'; // Import custom CSS for card styling
 
 
+
 const cardData = [
   {
     imgSrc: '/images/brand1.jpg', // Path relative to the public folder
