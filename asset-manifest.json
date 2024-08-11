@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/drifty/static/css/main.97d3284e.css",
-    "main.js": "/drifty/static/js/main.fb135a79.js",
+    "main.css": "/drifty/static/css/main.7b0fbb7c.css",
+    "main.js": "/drifty/static/js/main.cf9fff15.js",
+    "static/media/d5.jpg": "/drifty/static/media/d5.4692466ec5e741e331d7.jpg",
     "static/media/img2.jpg": "/drifty/static/media/img2.e6a6ce4013d5f1f2872a.jpg",
+    "static/media/d3.jpg": "/drifty/static/media/d3.ed39120bd999a58c5684.jpg",
+    "static/media/brand2.png": "/drifty/static/media/brand2.e2f834a59e69fd246591.png",
+    "static/media/d2.jpg": "/drifty/static/media/d2.423f52bcd2b535a423b7.jpg",
+    "static/media/d6.jpg": "/drifty/static/media/d6.032bedcbdd454f732a81.jpg",
     "static/media/nissan.jpg": "/drifty/static/media/nissan.363601aca26cf389940a.jpg",
+    "static/media/brand1.jpg": "/drifty/static/media/brand1.787cf3e5e16182abc546.jpg",
+    "static/media/d7.jpg": "/drifty/static/media/d7.59a740b58eb08359d549.jpg",
     "static/media/guuu.jpg": "/drifty/static/media/guuu.1f9188191086d5157087.jpg",
+    "static/media/d8.jpg": "/drifty/static/media/d8.7adb6eb4e65c0053a813.jpg",
+    "static/media/d4.jpg": "/drifty/static/media/d4.5dcd06c65f75c8859cb3.jpg",
+    "static/media/brand3.jpg": "/drifty/static/media/brand3.be0432ef6ba1b70b775c.jpg",
+    "static/media/d1.jpg": "/drifty/static/media/d1.6d8f4ee497b88b11dc04.jpg",
+    "static/media/brand4.webp": "/drifty/static/media/brand4.8c13b2c99e9ad9258737.webp",
     "index.html": "/drifty/index.html",
-    "main.97d3284e.css.map": "/drifty/static/css/main.97d3284e.css.map",
-    "main.fb135a79.js.map": "/drifty/static/js/main.fb135a79.js.map"
+    "main.7b0fbb7c.css.map": "/drifty/static/css/main.7b0fbb7c.css.map",
+    "main.cf9fff15.js.map": "/drifty/static/js/main.cf9fff15.js.map"
   },
   "entrypoints": [
-    "static/css/main.97d3284e.css",
-    "static/js/main.fb135a79.js"
+    "static/css/main.7b0fbb7c.css",
+    "static/js/main.cf9fff15.js"
   ]
 }
