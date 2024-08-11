@@ -4,7 +4,7 @@ import './Navbar.css';
 
 const Footer = () => {
   return (
-    <footer className="text-white mt-3 p-4 text-center">
+    <footer className="text-white mt-5 p-5 text-center" id='ContactUs'>
       <Container className='foot'>
         <Row>
           <Col md="12">
